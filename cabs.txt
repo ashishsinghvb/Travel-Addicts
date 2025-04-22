@@ -1,0 +1,27 @@
+origin       destination       distance       time
+
+
+carID       carType       carModel       carNo       driverName       driverPhone       driverRating
+
+
+
+hatchback 5.5/km 1.25/min
+
+Economic AC rides
+
+
+sedan 8.75/km 2/min
+
+Comfortable mid price rides
+
+
+suv 13.25/km 3.75/min
+
+Go anywhere with all terrain rides
+
+
+
+
+origin _____________ destination
+
+date	time	cartype		distance

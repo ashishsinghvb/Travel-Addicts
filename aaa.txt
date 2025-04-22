@@ -1,0 +1,4 @@
+<?php echo substr("HB145",2) ?>
+
+
+fix booking receipt print preview
